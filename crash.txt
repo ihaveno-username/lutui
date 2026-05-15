@@ -1,0 +1,16 @@
+2026-05-14 17:05:23 - cannot open main.lua: No such file or directory
+stack traceback:
+	wrapper.lua:7: in function <wrapper.lua:4>
+	[C]: in function 'dofile'
+	runner.lua:33: in main chunk
+	[C]: in function 'xpcall'
+	wrapper.lua:31: in main chunk
+	[C]: in ?
+2026-05-14 17:05:46 - cannot open main.lua: No such file or directory
+stack traceback:
+	wrapper.lua:7: in function <wrapper.lua:4>
+	[C]: in function 'dofile'
+	runner.lua:33: in main chunk
+	[C]: in function 'xpcall'
+	wrapper.lua:31: in main chunk
+	[C]: in ?
